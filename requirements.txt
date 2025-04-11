@@ -1,0 +1,7 @@
+streamlit==1.31.0
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+pillow==10.1.0
+numpy==1.26.2
+requests==2.31.0
+python-dotenv==1.0.0
