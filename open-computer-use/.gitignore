@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Environment variables
+.env
+
+# Agent output files
+/output
